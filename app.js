@@ -1,6 +1,6 @@
 // variables que se van a usar
 let numInicio = 1;
-let numFin = 5;
+let numFin = 50;
 let numeroSecreto;
 let intentos;
 let listaNumeros = [];
